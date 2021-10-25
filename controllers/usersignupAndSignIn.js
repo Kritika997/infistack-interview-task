@@ -81,6 +81,7 @@ exports.authUser = (req,res)=>{
     res.send(req.user)
 }
 
-exports.check =(req,res)=>{
-    res.send({message:"checking"})
-}
+#############
+// exports.check =(req,res)=>{
+//     res.send({message:"checking"})
+// }
